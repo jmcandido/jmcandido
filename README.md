@@ -3,9 +3,6 @@
 
 - Sou estudante de Engenharia de Computação na UFPB
 - Conhecimento em C/C++
-- Atualmente estou aprendendo JavaScript
-- Tenho 20 anos
-
 
 <div align="center">
   <a href="https://github.com/jmcandido">
