@@ -1,8 +1,9 @@
 ### Olá! Eu sou o João Marcelo
 
 
-- Sou estudante de Engenharia de Computação na UFPB
-- Conhecimento em C/C++
+ - I am a Computer Engineering student at UFPB 
+ - I have knowledge in C/C++
+ - I'm 20 years old
 
 <div align="center">
   <a href="https://github.com/jmcandido">
