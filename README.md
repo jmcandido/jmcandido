@@ -1,4 +1,4 @@
-### Olá! Eu sou o João Marcelo
+### Hi! I'am João Marcelo
 
 
  - I am a Computer Engineering student at UFPB 
