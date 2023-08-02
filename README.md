@@ -2,11 +2,11 @@
 
 - I am a Computer Engineering student at UFPB 📚
 - I'm 21 years old 😁
-- I've always been interested in IOS development, but I've always been faced with the limitation of having to own a Mac device, I recently managed to do a "hackintosh", basically installing the Mac OS system on a device that is not a mac. I'm finally able to start my studies in the Swift language, I'm very excited  
+- I've always been interested in IOS development, but I've always been faced with the limitation of having to own a Mac device, I recently managed to do a "hackintosh", basically installing the Mac OS system on a device that is not a mac. I'm finally able to start my studies in the Swift language. I'm very excited  
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmcandido)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcelo-candido-borges-78a115214/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/joaomarcelo.candido.9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcelo-candido-borges-78a115214/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jmcandido_/)
 
 
