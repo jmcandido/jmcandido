@@ -24,5 +24,3 @@
  <img align = "center" alt = "Swift" src = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 </div>
 
-
-![snake gif](https://github.com/jmcandido/jmcandido/blob/output/github-contribution-grid-snake.svg)
