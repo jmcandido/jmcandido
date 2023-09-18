@@ -11,7 +11,6 @@
 
 
 
-![jmcandido GitHub stats](https://github-readme-stats.vercel.app/api?username=jmcandido&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcandido&layout=donut)](https://github.com/jmcandido/github-readme-stats)
 
 
 
