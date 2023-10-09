@@ -1,7 +1,7 @@
 ### Hi! I'am João Marcelo 👋🏻
 
 - I am a Computer Engineering student at UFPB 📚
-- I'm 21 years old 😁
+- I'm 22 years old 😁
 - I've always been interested in IOS development, but I've always been faced with the limitation of having to own a Mac device, I recently managed to do a "hackintosh", basically installing the Mac OS system on a device that is not a mac. I'm finally able to start my studies in the Swift language. I'm very excited  
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmcandido)
