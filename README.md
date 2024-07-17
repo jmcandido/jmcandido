@@ -14,6 +14,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcandido&layout=compact&theme=default&title_color=2d77dc&icon_color=007396&bg_color=ffffff&text_color=333333&hide_border=true)
 
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?usernamejmcandido&theme=radical)
+
 
 
 
