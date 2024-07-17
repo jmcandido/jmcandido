@@ -10,7 +10,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jmcandido_/)
 
 ![jmcandido GitHub stats](https://github-readme-stats.vercel.app/api?username=jmcandido&show_icons=true&theme=onedark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcandido&layout=donut)](https://github.com/jmcandido/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcandido&hide=html,css,javascript,python,ruby,php&langs_count=1&layout=compact&theme=default&title_color=2d77dc&icon_color=007396&bg_color=ffffff&text_color=333333&hide_border=true)
 
 
 
