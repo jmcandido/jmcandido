@@ -9,7 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcelo-candido-borges-78a115214/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jmcandido_/)
 
-![jmcandido GitHub stats](https://github-readme-stats.vercel.app/api?username=jmcandido&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcandido&layout=donut)](https://github.com/jmcandido/github-readme-stats)
+![jmcandido GitHub stats](https://github-readme-stats.vercel.app/api?username=jmcandido&show_icons=true&theme=onedark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcandido&layout=donut)](https://github.com/jmcandido/github-readme-stats)
 
 
 
